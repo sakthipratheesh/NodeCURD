@@ -1,0 +1,34 @@
+{
+  "name": "nodecurd",
+  "version": "1.0.0",
+  "description": "Basic node curd application",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.3",
+    "node": "^16.5.0",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakthipratheesh/NodeCURD.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "javaScript",
+    "Node",
+    "Curd"
+  ],
+  "author": "Sakthipratheesh S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakthipratheesh/NodeCURD/issues"
+  },
+  "homepage": "https://github.com/sakthipratheesh/NodeCURD#readme"
+}
